@@ -1,8 +1,8 @@
 {
-  "name": "dsh-anchored-standard",
+  "name": "anchorpoint",
   "version": "0.1.0",
   "private": true,
-  "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools",
+  "description": "We Need: reproduce the DeepSeek V4 Pro first-request 'We need' trajectory anchor (Minimal-aligned bootstrap, deferred skill catalog, CJK bridge, lab tooling)",
   "type": "module",
   "license": "MIT",
   "engines": {

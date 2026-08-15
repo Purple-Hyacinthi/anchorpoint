@@ -1,4 +1,4 @@
-# dsh-anchored-standard
+# anchorpoint — "We Need"
 
 [中文说明](./README.zh-CN.md)
 
