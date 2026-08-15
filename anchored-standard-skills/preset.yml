@@ -1,0 +1,3 @@
+name: Anchored Standard + Skills (experimental)
+description: Minimal-pair bootstrap with the official skill plugin kept mounted; the skill catalog is deferred past the anchor and returns after promotion, with the `skill` tool resident.
+order: 6

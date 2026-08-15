@@ -1,0 +1,15 @@
+node_modules/
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# One-shot verification harness artifacts (verify/run-verify.mjs)
+verify/patch.generated.yml
+verify/wd/
+
+# Lab run outputs (credentials copies, lab homes, decompressed sessions)
+lab-run*/
+lab-*-*/
+*.zstd
+*.jsonl
+*.zip
